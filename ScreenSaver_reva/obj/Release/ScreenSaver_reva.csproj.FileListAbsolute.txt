@@ -1,0 +1,10 @@
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\bin\Release\ScreenSaver_reva.exe.config
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\bin\Release\ScreenSaver_reva.exe
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\bin\Release\ScreenSaver_reva.pdb
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\obj\Release\ScreenSaver_reva.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\obj\Release\ScreenSaver_reva.ScreenSaverForm.resources
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\obj\Release\ScreenSaver_reva.Properties.Resources.resources
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\obj\Release\ScreenSaver_reva.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\obj\Release\ScreenSaver_reva.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\obj\Release\ScreenSaver_reva.exe
+C:\Users\kevin\source\repos\ScreenSaver_reva\ScreenSaver_reva\obj\Release\ScreenSaver_reva.pdb
